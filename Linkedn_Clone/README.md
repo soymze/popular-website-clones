@@ -1,5 +1,5 @@
 # Linkedn_Clone
-
+![linkedin](https://github.com/soymze/popular-website-clones/blob/master/linkedin.gif)
 ## Description
 The `Linkedn_Clone` project is a simple clone of the LinkedIn web interface. It is designed to replicate the layout and visual style of the professional networking platform LinkedIn. This project showcases fundamental front-end development techniques using HTML, CSS, and JavaScript.
 
