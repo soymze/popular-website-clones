@@ -1,5 +1,5 @@
 # Netflix Landing Page Clone
-
+![netflix-landing](https://github.com/soymze/popular-website-clones/blob/master/netflix-landing.gif)
 ## Description
 The `netflix-landing` project is a clone of the Netflix landing page. It showcases the design and layout of Netflix's homepage using HTML, CSS, and JavaScript. This project demonstrates proficiency in creating responsive and visually appealing user interfaces.
 
