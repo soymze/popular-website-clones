@@ -1,5 +1,5 @@
 # InstagramClone
-
+![instagram](https://github.com/soymze/popular-website-clones/blob/master/instagram.gif)
 ## Description
 The `InstagramClone` project is a simple clone of the Instagram web interface. It is designed to mimic the look and feel of the popular social media platform. This project demonstrates basic front-end development skills using HTML, CSS, and JavaScript.
 
